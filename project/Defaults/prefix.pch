@@ -1,0 +1,18 @@
+//
+//  project.pch
+//  project
+//
+//  Created by test on 9/1/16.
+//  Copyright © 2016 test. All rights reserved.
+//
+
+#ifndef project_pch
+#define project_pch
+
+
+#import <UIKit/UIKit.h>
+#import <MediaPlayer/MediaPlayer.h>
+
+#import "NTDefines.h"
+
+#endif /* project_pch */
